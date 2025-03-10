@@ -7,10 +7,7 @@ I'm proud to be a participant in the Creds Ambassador Program.
 A multi-faceted consultant and solution oriented trusted advisor who uses frameworks as vehicles for innovation for the customer.
 Helps the customer in identifying the gaps and remediation strategies for operating in the cloud and provide best possible solutions at the same time.
 
-<video width="640" height="360" controls>
-  <source src="https://raw.githubusercontent.com/dagadeepansh/dagadeepansh/main/Deepansh%20GitHub%20Creds.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Click here to watch a demo of my project] (https://raw.githubusercontent.com/dagadeepansh/dagadeepansh/main/Deepansh%20GitHub%20Creds.mp4")
 
 Here are some projects demonstrating relevant skills:
 
