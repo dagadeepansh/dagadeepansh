@@ -1,9 +1,5 @@
 ## Hi there 👋
 
-**dagadeepansh/dagadeepansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 ## Creds Ambassador Program
 
 I'm proud to be a participant in the Creds Ambassador Program.
@@ -29,10 +25,10 @@ Here are some projects demonstrating relevant skills:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-• Enterprise Architect & Cloud Architect with 17.5+ years of work experience in variety of Industry Solutions (FSI & Telco), Infra, Data & AI/ML Architecture, Solutions Architecture and Multi-Cloud Architecture.
-• Technical Leadership abilities in driving a culture of technical excellence, fostering cross-functional collaboration, stakeholder management and empowering high-performing teams to deliver innovative solutions and achieve outstanding results.
-• Architecting and developing a robust design to meet customer business requirement with scalability, availability, security, resiliency, contingency, performance and cost-effectiveness.
-• Design High-Level and Low-Level Detailed Migration Plans for Workloads from Physical or Virtual Servers to public cloud like GCP, AWS, Azure. End to End Design and Implementation of Cloud transformation.
-• Architect end-to-end generative AI solutions with a focus on LLMs.
-• Skilled in Infrastructure Architecture, Database Solutions, Security Solutions, Resilient & Highly Available Solutions, Disaster Recovery Solutions, Scalability & Capacity Planning, Cost Optimization.
-• Proficient in Database architecture & administration activities such as Migration, Replication, Shell Scripting, Performance Tuning, Backup & Recovery, Upgrades & Patching.
+- Enterprise Architect & Cloud Architect with 17.5+ years of work experience in variety of Industry Solutions (FSI & Telco), Infra, Data & AI/ML Architecture, Solutions Architecture and Multi-Cloud Architecture.
+- Technical Leadership abilities in driving a culture of technical excellence, fostering cross-functional collaboration, stakeholder management and empowering high-performing teams to deliver innovative solutions and achieve outstanding results.
+- Architecting and developing a robust design to meet customer business requirement with scalability, availability, security, resiliency, contingency, performance and cost-effectiveness.
+- Design High-Level and Low-Level Detailed Migration Plans for Workloads from Physical or Virtual Servers to public cloud like GCP, AWS, Azure. End to End Design and Implementation of Cloud transformation.
+- Architect end-to-end generative AI solutions with a focus on LLMs.
+- Skilled in Infrastructure Architecture, Database Solutions, Security Solutions, Resilient & Highly Available Solutions, Disaster Recovery Solutions, Scalability & Capacity Planning, Cost Optimization.
+- Proficient in Database architecture & administration activities such as Migration, Replication, Shell Scripting, Performance Tuning, Backup & Recovery, Upgrades & Patching.
