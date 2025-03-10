@@ -8,6 +8,7 @@ A multi-faceted consultant and solution oriented trusted advisor who uses framew
 Helps the customer in identifying the gaps and remediation strategies for operating in the cloud and provide best possible solutions at the same time.
 
 [Click here to watch Gihub Creds video] (https://raw.githubusercontent.com/dagadeepansh/dagadeepansh/main/Deepansh%20GitHub%20Creds.mp4")
+<video src="Deepansh GitHub Creds.mp4" controls preload></video>
 
 Here are some projects demonstrating relevant skills:
 
