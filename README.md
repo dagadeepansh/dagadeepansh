@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **dagadeepansh/dagadeepansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -37,4 +36,3 @@ Here are some projects demonstrating relevant skills:
 • Architect end-to-end generative AI solutions with a focus on LLMs.
 • Skilled in Infrastructure Architecture, Database Solutions, Security Solutions, Resilient & Highly Available Solutions, Disaster Recovery Solutions, Scalability & Capacity Planning, Cost Optimization.
 • Proficient in Database architecture & administration activities such as Migration, Replication, Shell Scripting, Performance Tuning, Backup & Recovery, Upgrades & Patching.
--->
